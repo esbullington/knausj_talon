@@ -50,6 +50,7 @@ extension_lang_map = {
     ".py": "python",
     ".r": "r",
     ".rb": "ruby",
+    ".res": "rescript",
     ".s": "assembly",
     ".sh": "bash",
     ".snippets": "snippets",
